@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Timny Li
 - 👀 I’m interested in Robotics and software development
-- 🌱 I’m currently learning Election.js and C++
+- 🌱 I’m currently learning ROS2, C#, and C/C++
 - 👌 I have already learned Python, HTML, CSS, and Javascript
 
 <!---
